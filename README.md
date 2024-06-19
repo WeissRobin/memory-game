@@ -1,4 +1,4 @@
-# React + Vite
+# Memory Game for Pokémon!
 
 Hey, another project from Odin Project Course
 
